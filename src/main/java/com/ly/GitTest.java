@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("第一个git2");
         System.out.println("hot-fix");
         System.out.println("h哈哈");
+        int a=10;
     }
 }
